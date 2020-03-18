@@ -26,4 +26,16 @@ div{
     float: left;
     width: 47%;
     border-radius: 5px;
+    display:block;
+}
+footer{
+    background-color: #702632;
+    color: #fffffa;
+    display:block;
+    bottom:0;
+    position:fixed;
+    width: 100%;
+}
+a{
+    color: #C2EFEB;
 }
