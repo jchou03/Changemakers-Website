@@ -1,12 +1,29 @@
 html body{
-    background-color:cyan;
+    background-color: #40434E;
+    padding: 0px;
+    margin: 0px;
 }
 h1{
     text-align: center;
-
+    color: #fffffa;
+    background-color: #702632;
+    padding: 20px;
+}
+h1:hover{
+    background-image: url('download.jfif');
+    background-size: cover;
+    background-position: center;
+    transition-duration: 1000ms;
+}
+h3{
+    text-align:center;
 }
 div{
-    background-color: white;
-    padding: 5px;
-    margin: 5px;
+    background-color: #912F40;
+    color: #fffffa;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    width: 47%;
+    border-radius: 5px;
 }
