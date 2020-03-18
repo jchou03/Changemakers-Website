@@ -10,6 +10,7 @@ h1{
     padding: 20px;
 }
 h1:hover{
+    color:#912F40;
     background-image: url('download.jfif');
     background-size: cover;
     background-position: center;
