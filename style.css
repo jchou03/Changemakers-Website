@@ -1,0 +1,12 @@
+html body{
+    background-color:cyan;
+}
+h1{
+    text-align: center;
+
+}
+div{
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+}
